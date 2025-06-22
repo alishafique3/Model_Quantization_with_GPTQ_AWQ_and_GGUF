@@ -1,1 +1,1 @@
-# Model_Quantization_with_GPTQ_AWQ_and_GGUF
+# Model Quantization with GPTQ AWQ and GGUF
