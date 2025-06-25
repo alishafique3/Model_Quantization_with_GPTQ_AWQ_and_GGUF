@@ -1,5 +1,6 @@
 # Model Quantization with GPTQ AWQ and GGUF
 
+- You can find many (GGUF, GPTQ, and AWQ) models curated and distributed by [TheBloke](https://huggingface.co/TheBloke), a key contributor to the open-source LLM quantization community.
 
 | Quantization Library | Description | Author | Colab Notebook |
 |----------------------|-------------|----------------|----------------|
