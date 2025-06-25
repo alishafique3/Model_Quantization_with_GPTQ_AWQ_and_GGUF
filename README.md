@@ -1,6 +1,5 @@
 # Model Quantization with GPTQ AWQ and GGUF
 
-## 🔗 Available Quantized Models and Notebooks
 
 | Quantization Library | Description | Author | Colab Notebook |
 |----------------------|-------------|----------------|----------------|
