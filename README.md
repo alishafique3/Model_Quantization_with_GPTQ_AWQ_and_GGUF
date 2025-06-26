@@ -12,6 +12,5 @@
 | GPTQModel, AutoGPTQ (GPTQ)       | The GPTQModel and AutoGPTQ implements the GPTQ algorithm in HF transformer using GPTQConfig with ExLlamaV2 kernel support, [blog](https://huggingface.co/docs/transformers/en/quantization/gptq#gptq) | HuggingFace | |
 | llm-AWQ, AutoAWQ (AWQ)       | The AutoAWQ implements the AWQ algorithm in HF transformer using AwqConfig with ExLlamaV2 kernel support. Transformers supports loading models quantized with the llm-awq and autoawq libraries. [blog](https://huggingface.co/docs/transformers/en/quantization/awq?fuse=supported+architectures#awq) | HuggingFace | |
 | - (GPTQ, GGUF, BitNet)       | A Visual Guide to Quantization, [blog](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) | Maarten Grootendorst | |
-| AutoGPTQ (GPTQ)       | 4-bit LLM Quantization with GPTQ by maximelabonne, [blog](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html) | Maxime Labonne | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lSvVDaRgqQp_mWK_jC9gydz6_-y6Aq4A?usp=sharing) |
 
 
