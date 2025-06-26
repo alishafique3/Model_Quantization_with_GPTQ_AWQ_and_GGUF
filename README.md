@@ -2,7 +2,7 @@
 
 - You can find many (GGUF, GPTQ, and AWQ) models curated and distributed by [TheBloke](https://huggingface.co/TheBloke), a key contributor to the open-source LLM quantization community.
 - GGUF support are integrated into several popular GUIs—including Oobabooga’s text-generation-web-ui, LM Studio, and ctransformers. Notably, Oobabooga also conducted a detailed benchmark comparing different quantized models based on perplexity in an insightful [blog post](https://oobabooga.github.io/blog/posts/perplexities/).
-- TinyChatEngine: On-Device LLM/VLM Inference Library by MIT Han Lab [Github Repo](https://github.com/mit-han-lab/TinyChatEngine/tree/main).
+- TinyChatEngine: On-Device LLM/VLM Inference Library by MIT Han Lab. This is enabled by LLM model compression technique: SmoothQuant and AWQ (Activation-aware Weight Quantization) [Github Repo](https://github.com/mit-han-lab/TinyChatEngine/tree/main).
 
 | Quantization | Description | Author | Colab Notebook |
 |----------------------|-------------|----------------|----------------|
