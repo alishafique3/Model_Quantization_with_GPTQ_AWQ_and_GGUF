@@ -13,6 +13,6 @@
 | GPTQModel, AutoGPTQ (GPTQ)       | The GPTQModel and AutoGPTQ implements the GPTQ algorithm in HF transformer using GPTQConfig with ExLlamaV2 kernel support, [blog](https://huggingface.co/docs/transformers/en/quantization/gptq#gptq) | HuggingFace | |
 | llm-AWQ, AutoAWQ (AWQ)       | The AutoAWQ implements the AWQ algorithm in HF transformer using AwqConfig with ExLlamaV2 kernel support. Transformers supports loading models quantized with the llm-awq and autoawq libraries. [blog](https://huggingface.co/docs/transformers/en/quantization/awq?fuse=supported+architectures#awq) | HuggingFace | |
 | - (GPTQ, GGUF, BitNet)       | A Visual Guide to Quantization, [blog](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) | Maarten Grootendorst | |
-| TorchAO       | Pytorch Optimization Toolkit, [blog](https://pytorch.org/blog/pytorch-native-architecture-optimization/) | Pytorch | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/quantization/torchao.ipynb) |
+| TorchAO       | Pytorch Optimization Toolkit, [blog](https://pytorch.org/blog/pytorch-native-architecture-optimization/) | Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/quantization/torchao.ipynb) |
 
 
